@@ -2,11 +2,14 @@
 
 #  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&duration=5001&pause=1000&color=2B8822&background=F892FF00&center=true&width=800&height=65&lines=Hi+there%2C+I+am+Tian+Runze!)](https://git.io/typing-svg)
 
-[![loveress01@outlook.com](https://img.shields.io/badge/email-loveress01@outlook.com-blueviolet?style=flat-square&logo=microsoft-outlook&color=0078d4)][email]
-[![https://blog.fkynjyq.com](https://img.shields.io/badge/blog-https://blog.fkynjyq.com-blueviolet?style=flat-square&logo=vercel&color=000000)][website]
-[![@fkynjyq](https://img.shields.io/badge/twitter-@fkynjyq-blueviolet?style=flat-square&logo=twitter&color=1DA1F2)][twitter]
-
 </div>
+I am an individual who enjoys experimenting, thinking, learning, and creating.
+
+I am currently a sophomore in the elite statistics program at the School of Statistics, Renmin University of China.
+As a undergraduate student, my learning focuses on the statistic theory and practice in Machine learning.
+**Looking ahead, my aspiration is to become a developer specializing in Machine Learning.**
+
+I'm also a lover of LaTeX and Julia.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Welldefine/Welldefine/output/github-contribution-grid-snake-dark.svg">
@@ -14,3 +17,9 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Welldefine/Welldefine/output/github-contribution-grid-snake.svg">
 </picture>
 
+- :telescope: **Looking for to learn more in DataScience.**
+- :seedling: I’m currently **learning everything**.
+- :handshake: I’m **looking to collaborate** with other creators.
+- :goal_net: 2024 Goals: Begin to learn basic knowlodge about ML & DL.
+
+<div align="center">
